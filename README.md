@@ -104,4 +104,4 @@ psql -h <host> -p <port> -U <user> -d <database> -v ON_ERROR_STOP=1 -f docs/04-s
 - `02-schema.sql` は冒頭で `DROP SCHEMA IF EXISTS cony CASCADE` を実行する。既存データがある環境では実行しないこと
 - `04-schema-tests.sql` はテスト用データを投入するため、**空のデータベースでのみ**実行すること
 - クライアント側の文字コードは UTF-8 とすること（`PGCLIENTENCODING=UTF8`）
-  I m senior engineer!
+Full-Stack Engineer
